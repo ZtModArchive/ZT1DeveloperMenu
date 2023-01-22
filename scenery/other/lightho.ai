@@ -1,0 +1,41 @@
+[Icon]
+Icon = objects/lightho/SE/SE
+Icon = objects/lightho/SW/SW
+Icon = objects/lightho/NW/NW
+Icon = objects/lightho/NE/NE
+
+[Member]
+developer
+aqua
+
+[Characteristics/Integers]
+cNameID = 6165
+cHelpID = 6165
+cPurchaseCost = 0
+cFootprintX = 6
+cFootprintY = 6
+;Bad Habitat Type
+cHabitat = 9414
+cUsedThought=10275
+cHeight = 4
+cUseNumbersInName=0
+cEstheticWeight = 33
+cGawkOnlyFromFront = 0
+cUnderwater = 0
+
+[Animations]
+idle = idle
+
+[EstheticBonus]
+; man
+v = 9503
+v = 10
+; woman
+v = 9504
+v = 10
+; boy
+v = 9505
+v = 15
+; girl
+v = 9506
+v = 15

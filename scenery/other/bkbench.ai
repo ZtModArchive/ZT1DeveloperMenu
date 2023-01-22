@@ -1,0 +1,40 @@
+[Icon]
+Icon = objects/bkbench/SE/SE
+Icon = objects/bkbench/SW/SW
+Icon = objects/bkbench/NW/NW
+Icon = objects/bkbench/NE/NE
+
+[Member]
+developer
+aqua
+
+[Characteristics/Integers]
+cNameID = 6185
+cHelpID = 6185
+cPurchaseCost = 0
+cFootprintX = 2
+cFootprintY = 1
+;Bad Habitat Type
+cHabitat = 9414
+cHeight = 1
+cUseNumbersInName=0
+cEstheticWeight = 0
+cGawkOnlyFromFront = 0
+cUnderwater = 0
+
+[Animations]
+idle = idle
+
+[EstheticBonus]
+; man
+v = 9503
+v = -10
+; woman
+v = 9504
+v = -10
+; boy
+v = 9505
+v = -15
+; girl
+v = 9506
+v = -15

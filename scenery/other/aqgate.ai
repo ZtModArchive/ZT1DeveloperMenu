@@ -1,0 +1,35 @@
+[Icon]
+Icon=objects/aqgate/SE/SE
+Icon=objects/aqgate/SW/SW
+Icon=objects/aqgate/NW/NW
+Icon=objects/aqgate/NE/NE
+
+[Member]
+developer
+zoogate
+
+[Characteristics/Integers]
+cFootprintX = 6
+cFootprintY = 2
+cPurchaseCost = 0
+cNameID = 6483
+cHelpID = 6483
+walkable = 1
+cSelectable = 1
+cDeletable = 1
+cHeight = 3
+;Bad Habitat Type
+cHabitat = 9414
+cUseNumbersInName=0
+cRubbleable = 0
+
+[Characteristics/Strings]
+cInfoImageName = scenery/building/inbldg/inbldg
+
+[Animations]
+idle = idle
+
+
+[AmbientSound]
+name = scenery/building/fountain.wav
+attenuation = 1500

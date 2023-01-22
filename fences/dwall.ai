@@ -1,0 +1,31 @@
+[Icon]
+Icon=fences/dwall/SE/SE
+Icon=fences/dwall/SW/SW
+Icon=fences/dwall/NW/NW
+Icon=fences/dwall/NE/NE
+
+[Member]
+developer
+zoowall
+
+[Characteristics/Integers]
+cPurchaseCost = 0
+cNameID = 6433
+cHelpID = 6433
+cDeletable = 1
+cSeeThrough = 0
+cHeight = 3
+
+cIsClimbable = 0
+cIsJumpable = 0
+cStrength = 500
+cLife = 10
+cDecayedLife = 4
+cDecayDelta = 10
+
+[Animations]
+idle = idle
+idle30p = idle30p
+idle30n = idle30n
+
+[HabitatFence]

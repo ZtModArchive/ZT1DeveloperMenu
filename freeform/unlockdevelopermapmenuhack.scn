@@ -1,0 +1,114 @@
+[goals]
+goal=DEFAULT_ITEMS
+
+[DEFAULT_ITEMS]
+rulea=7
+ruleb=2
+value=0
+text=17700
+trulea=7
+truleb=0
+targa=1000
+hidden=0
+sticky=0
+
+[1000]
+; ORIGINAL ZT DEVELOPER OBJECTS
+; Building (1)
+id=6130
+; Building (2)
+id=6131
+; Building (3)
+id=6132
+; Building (4)
+id=6133
+; Building (5)
+id=6134
+; Dock (1)
+id=6135
+; Dock (2)
+id=6136
+; Dock (3)
+id=6137
+; jeep / 4-wheeler
+id=6138
+; Sedan
+id=6139
+; Tractor trailer
+id=6140
+; Street light
+id=6141
+; SUV
+id=6142
+; Telephone Pole (1)
+id=6143
+; Telephone Pole (2)
+id=6144
+; Van
+id=6145
+; Water Tower
+id=6146
+; Buoy
+id=6147
+; DD DEVELOPER OBJECTS
+; Laboratory
+id=6161
+; Road Paint (1)
+id=6162
+; Road Paint (2)
+id=6163
+; Road Paint (3)
+id=6164
+; Airplane
+id=6166
+; Genetic Laboratory Vehicle
+id=6167
+; Oil Drum
+id=6168
+; Cliff (1)
+id=6175
+; Cliff (2)
+id=6176
+; Cliff (3)
+id=6177
+; Cliff (4)
+id=6178
+; Cliff (5)
+id=6179
+; Cliff (6)
+id=6180
+; Building (6)
+id=6181
+; Tent
+id=6182
+; Parking Meter
+id=6183
+; Dumpster
+id=6184
+; Rubble
+id=10513
+; MM DEVELOPER OBJECTS
+; Lighthouse
+id=6165
+; Umbrella
+id=6169
+; Motor Boat
+id=6170
+; Jetty (1)
+id=6171
+; Jetty (2)
+id=6172
+; Jetty (3)
+id=6173
+; Sail Boat
+id=6174
+; Broken Bench
+id=6185
+; Broken Light
+id=6186
+; Dock 4
+id=6187
+; Hotel
+id=6188
+; Lifeguard Station
+id=6189

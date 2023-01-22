@@ -1,0 +1,25 @@
+[Icon]
+Icon = objects/dumpster/SE/SE
+Icon = objects/dumpster/SW/SW
+Icon = objects/dumpster/NW/NW
+Icon = objects/dumpster/NE/NE
+
+[Member]
+developer
+
+[Characteristics/Integers]
+cPurchaseCost = 0
+cNameID = 6184
+cHelpID = 6184
+cFootprintX = 4
+cFootprintY = 2
+;Bad Habitat Type
+cHabitat = 9414
+cCommerce = 0
+cSelectable = 0
+cDeletable = 1
+cHeight = 1
+cUseNumbersInName=0
+
+[Animations]
+idle = idle

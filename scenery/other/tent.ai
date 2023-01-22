@@ -1,0 +1,25 @@
+[Icon]
+Icon = objects/tent/SE/SE
+Icon = objects/tent/SW/SW
+Icon = objects/tent/NW/NW
+Icon = objects/tent/NE/NE
+
+[Member]
+developer
+
+[Characteristics/Integers]
+cPurchaseCost = 0
+cNameID = 6182
+cHelpID = 6182
+cFootprintX = 6
+cFootprintY = 6
+;Bad Habitat Type
+cHabitat = 9414
+cCommerce = 0
+cSelectable = 0
+cDeletable = 1
+cHeight = 1
+cUseNumbersInName=0
+
+[Animations]
+idle = idle

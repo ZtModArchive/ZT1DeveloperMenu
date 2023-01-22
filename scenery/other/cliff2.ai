@@ -1,0 +1,27 @@
+[Icon]
+Icon = objects/cliff2/SE/SE
+Icon = objects/cliff2/SW/SW
+Icon = objects/cliff2/NW/NW
+Icon = objects/cliff2/NE/NE
+
+[Member]
+developer
+
+[Characteristics/Integers]
+cPurchaseCost = 0
+cNameID = 	6176
+cHelpID = 	6176
+cFootprintX = 10
+cFootprintY = 4
+;Bad Habitat Type
+cHabitat = 9414
+cCommerce = 0
+cSelectable = 0
+cDeletable = 1
+cHeight = 2
+cUseNumbersInName=0
+cRubbleable = 0
+
+[Animations]
+idle = idle
+

@@ -1,0 +1,42 @@
+[goals]
+goal=DEFAULT_ITEMS
+
+[DEFAULT_ITEMS]
+rulea=7
+ruleb=2
+value=0
+text=17700
+trulea=7
+truleb=0
+targa=1000
+hidden=0
+sticky=0
+
+[1000]
+; ORIGINAL ZT ENTRANCE, ZOO FENCE, AND ADMISSION BOOTHS
+; Zoo Entrance
+id=6002
+; Zoo Fence
+id=6014
+; Admission Booth (1)
+id=6066
+; Admission Booth (2)
+id=6067
+; DD ENTRANCE, ZOO WALL, AND ADMISSION BOOTHS
+; Dinosaur Zoo Entrance
+id=6430
+; Dinosaur Admission Booth (right)
+id=6431
+; Dinosaur Admission Booth (left)
+id=6432
+; Dinosaur Zoo Wall
+id=6433
+; MM ENTRANCE, ZOO WALL, AND ADMISSION BOOTHS
+; Aqua Wall
+id=6462
+; Admission Booth (2)
+id=6463
+; Admission Booth (1)
+id=6464
+; (Aquatic Zoo Entrance)
+id=6483

@@ -1,0 +1,12 @@
+[animation]
+dir0=ui
+dir1=develop
+dir2=unlockeb
+animation=N
+animation=H
+animation=S
+animation=G
+x0=-47
+y0=-9
+x1=47
+y1=9
